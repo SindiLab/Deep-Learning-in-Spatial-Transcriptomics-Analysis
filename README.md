@@ -1,8 +1,7 @@
 # Deep-Learning-in-Spatial-Transcriptomics-Analysis
 Our goal is to help the scientific community by providing a (continously updated) list of various deep learning models used in the various stages of spatial transcriptomics analysis. 
 
-We would really appreciate you contribution, so please do not hesitate to do a PR with the information on a new paper and/or tool.
-
+We would really appreciate your contributiond, so please do not hesitate to do a PR with data on a new paper and/or tool.
 
 ## Methods
 
@@ -16,3 +15,13 @@ We would really appreciate you contribution, so please do not hesitate to do a P
 |                                    |                                                                         |                                                                                                               |                     |      |                                                                                                                                                                                                                                                       |                  |
 | ***Integrative Tookit***               | [GLUER](https://github.com/software-github/GLUER)                       | GLUER: integrative analysis of multi-omics and imaging data at single-cell resolution by deep neural networks | Python (TensorFlow) | 2021 | GLUER: integrative analysis of single-cell omics and imaging data by deep neural network. Tao Peng, Gregory M. Chen, KaiTan. bioRxiv 2021.01.25.427845; doi: https://doi.org/10.1101/2021.01.25.427845                                                |                  |
 |                                    |                                                                         |                                                                                                               |                     |      |                                                                                                                                                                                                                                                       |                  |
+
+
+
+
+## Review Papers
+
+A review paper on the applications of deep learning in single-cell omics analysis can be found [here](https://www.biorxiv.org/content/10.1101/2021.11.26.470166v2).
+A review on deep learning in spatial transcriptomics can be found [here]() [coming very soon!].
+
+
