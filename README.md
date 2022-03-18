@@ -22,6 +22,6 @@ We would really appreciate your contributions, so please do not hesitate to do a
 ## Review Papers
 
 A review paper on the applications of deep learning in single-cell omics analysis can be found [here](https://www.biorxiv.org/content/10.1101/2021.11.26.470166v2).
-A review on deep learning in spatial transcriptomics can be found [here]() [coming very soon!].
+A review on deep learning in spatial transcriptomics can be found [here](https://www.biorxiv.org/content/10.1101/2022.02.28.482392v1).
 
 
