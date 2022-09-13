@@ -53,3 +53,22 @@ To provide a distinction between Deep Learning and Machine Learning/Statistical 
 | ***5. Cell-Cell Interaction/Communication*** | [SpaOTsc](https://github.com/zcang/SpaOTsc)   | Inferring spatial and signaling relationships between cells from single cell transcriptomic data | Python  | 2020 |  Z. Cang and Q. Nie, “Inferring spatial and signaling relationships between cells from single cell transcriptomic data,” Nature Communications 11, 2084 (2020).
 | ***5. Cell-Cell Interaction/Communication*** | [MISTy](https://github.com/saezlab/mistyR)   |  Explainable multi-view framework for dissecting intercellular signaling from highly multiplexed spatial data | R  | 2020 | J. Tanevski, R. O. R. Flores, A. Gabor, D. Schapiro, and J. Saez-Rodriguez, “Explainable multi-view framework for dissecting intercellular signaling from highly multiplexed spatial data,” bioRxiv (2021).  |                  |
 | ***5. Cell-Cell Interaction/Communication*** | [Giotto](https://github.com/RubD/Giotto)   |  Giotto: a toolbox for integrative analysis and visualization of spatial ex- pression data | R  | 2021 | R. Dries, Q. Zhu, R. Dong, C.-H. L. Eng, H. Li, K. Liu, Y. Fu, T. Zhao, A. Sarkar, F. Bao, R. E. George, N. Pierson, L. Cai, and G.-C. Yuan, “Giotto: a toolbox for integrative analysis and visualization of spatial expression data,” Genome Biology 22, 78 (2021).  |                  |
+
+
+### Citation and Acknowledgement
+Please cite our repository/review paper if it was useful for your research:
+
+```
+@article{Heydari-DLinST,
+	author = {Heydari, A. Ali and Sindi, Suzanne S.},
+	doi = {10.1101/2022.02.28.482392},
+	elocation-id = {2022.02.28.482392},
+	eprint = {https://www.biorxiv.org/content/early/2022/03/02/2022.02.28.482392.full.pdf},
+	journal = {bioRxiv},
+	publisher = {Cold Spring Harbor Laboratory},
+	title = {Deep Learning in Spatial Transcriptomics: Learning From the Next Next-Generation Sequencing},
+	url = {https://www.biorxiv.org/content/early/2022/03/02/2022.02.28.482392},
+	year = {2022},
+	bdsk-url-1 = {https://www.biorxiv.org/content/early/2022/03/02/2022.02.28.482392},
+	bdsk-url-2 = {https://doi.org/10.1101/2022.02.28.482392}}
+```
