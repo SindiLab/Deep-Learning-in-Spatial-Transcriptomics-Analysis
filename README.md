@@ -1,5 +1,7 @@
 # Deep Learning in Spatial Transcriptomics Analysis
 
+![ConeptualFigure](ConceptualFigure_forGithub.png)
+
 Our goal is to help the scientific community by providing a (continously updated) list of various deep learning models used in the various stages of spatial transcriptomics analysis. 
 
 ***We would really appreciate your contributions, so please do not hesitate to do a PR with data on a new paper and/or tool.***
