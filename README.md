@@ -7,7 +7,7 @@ Our goal is to help the scientific community by providing a (continously updated
 ***We would really appreciate your contributions, so please do not hesitate to do a PR with information on a new paper and/or tool.***
 
 # Review Papers
-Our review paper on deep learning in spatial transcriptomics can be found [here](https://www.biorxiv.org/content/10.1101/2022.02.28.482392v1). We also have a review paper on the applications of deep learning in single-cell omics analysis, which can be accessed from [this link](https://www.biorxiv.org/content/10.1101/2021.11.26.470166v2).
+Our review paper on deep learning in spatial transcriptomics can be found [here](https://doi.org/10.1063/5.0091135) [BPR open access article]. We also have a review paper on the applications of deep learning in single-cell omics analysis, which can be accessed from [this link](https://www.biorxiv.org/content/10.1101/2021.11.26.470166v2).
 
 # Methods
 
@@ -61,16 +61,16 @@ To provide a distinction between Deep Learning and Machine Learning/Statistical 
 Please cite our repository/review paper if it was useful for your research:
 
 ```
-@article{Heydari-DLinST,
-	author = {Heydari, A. Ali and Sindi, Suzanne S.},
-	doi = {10.1101/2022.02.28.482392},
-	elocation-id = {2022.02.28.482392},
-	eprint = {https://www.biorxiv.org/content/early/2022/03/02/2022.02.28.482392.full.pdf},
-	journal = {bioRxiv},
-	publisher = {Cold Spring Harbor Laboratory},
-	title = {Deep Learning in Spatial Transcriptomics: Learning From the Next Next-Generation Sequencing},
-	url = {https://www.biorxiv.org/content/early/2022/03/02/2022.02.28.482392},
-	year = {2022},
-	bdsk-url-1 = {https://www.biorxiv.org/content/early/2022/03/02/2022.02.28.482392},
-	bdsk-url-2 = {https://doi.org/10.1101/2022.02.28.482392}}
+@article{doi:10.1063/5.0091135,
+author = {Heydari,A. Ali  and Sindi,Suzanne S. },
+title = {Deep learning in spatial transcriptomics: Learning from the next next-generation sequencing},
+journal = {Biophysics Reviews},
+volume = {4},
+number = {1},
+pages = {011306},
+year = {2023},
+doi = {10.1063/5.0091135},
+URL = {https://doi.org/10.1063/5.0091135},
+eprint = {https://doi.org/10.1063/5.0091135}
+}
 ```
